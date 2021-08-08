@@ -18,7 +18,9 @@ export default function Layout({ children }) {
       <Link to="/">Home</Link>
       <Link to="/intro">Introduction</Link>
       <Link to="/committee">Committee</Link>
-      <Link to="/classification">Classification</Link>
+      <Link to="/sic">SIC</Link>
+      <Link to="/dissclaimer">Diss-claimer</Link>
+      <Link to="/classifications">Classifications</Link>
       {children}
     </React.Fragment>
   );

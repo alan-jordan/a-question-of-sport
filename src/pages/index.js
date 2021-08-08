@@ -12,7 +12,6 @@ const IndexPage = () => {
       <main>
         <title>A Question of Sport</title>
         <Header>A Question of Sport</Header>
-        <Link to="/intro">Intro</Link>
       </main>
     </Layout>
   );
